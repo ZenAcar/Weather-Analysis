@@ -58,9 +58,6 @@ The next objective is to run linear regression on each relationship, only this t
 
 ![NH Wind](Images/NH_lat_vs_wind.png)
 
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
-
-![SH Wind](Images/SH_lat_vs_wind.png)
 
 
 ### Part II - VacationPy

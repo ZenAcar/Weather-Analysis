@@ -56,7 +56,7 @@ The next objective is to run linear regression on each relationship, only this t
 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![SH Wind](Images/NH_lat_vs_wind.png)
+![NH Wind](Images/NH_lat_vs_wind.png)
 
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 

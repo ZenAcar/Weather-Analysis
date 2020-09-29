@@ -58,6 +58,15 @@ The next objective is to run linear regression on each relationship, only this t
 
 ![NH Wind](Images/NH_lat_vs_wind.png)
 
+### Conclusion
+
+* Comparing maximum temperatures in the northern and southern hemispheres its clear that the temperatures increase as we move closer to the equator. Cities located near equator on the southern hemisphere have slightly lower temperatures as compared to northern hemisphere.
+
+* There is a close correlation between humidity and cloudiness, both tend to increase moving towards the north and south poles.
+
+* Wind speed tend to be higher closer to south pole as compared to north pole.
+
+
 
 
 ### Part II - VacationPy
@@ -74,6 +83,9 @@ Using Google Places API,the first hotel for each city located within 5000 meters
 
 
   ![heatmap](Images/heatmap.png)
+  
+
+
 
 
 

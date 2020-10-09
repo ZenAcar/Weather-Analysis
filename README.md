@@ -84,7 +84,3 @@ Using Google Places API,the first hotel for each city located within 5000 meters
 
 * Wind speed tend to be higher closer to south pole as compared to north pole.
 
-
-
-
-
